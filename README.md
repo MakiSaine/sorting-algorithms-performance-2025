@@ -150,13 +150,5 @@ The exercise strengthened my understanding of algorithm optimization, data struc
 
 ---
 
-## Contact
-**Mahamed-Maki Saine**  
-Kristiania University College  
-Bachelor in Cybersecurity and IT Project Management  
-📧 [GitHub Profile](https://github.com/MakiSaine)
-
----
-
 © 2025 Mahamed-Maki Saine  
 Cybersecurity and IT Project Management
